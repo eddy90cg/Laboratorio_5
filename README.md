@@ -91,7 +91,7 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 *  Circuito Experimental :
 
-[WhatsApp Image 2021-03-23 at 2 18 46 AM (2)](https://user-images.githubusercontent.com/76057459/112108648-7b8e5e00-8b7e-11eb-9bd2-e5b6d79f8162.jpeg)
+![WhatsApp Image 2021-03-23 at 2 18 46 AM (2)](https://user-images.githubusercontent.com/76057459/112108648-7b8e5e00-8b7e-11eb-9bd2-e5b6d79f8162.jpeg)
 
 *  Circuito Experimental :
 
