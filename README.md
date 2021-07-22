@@ -176,7 +176,7 @@ Recuperado de:
 
      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
 
-RUBRICA
+RÚBRICA
 
    ![](https://github.com/eddy90cg/Laboratorio_4/blob/main/Anexos/rubrica.jpg)
 
