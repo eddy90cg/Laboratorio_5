@@ -74,6 +74,29 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 ![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Esquemático.jpeg)
 
+* Circuito Experimental Armado
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Experimental%20Armado.jpeg)
+
+* Circuito Experimental con mediciones de Voltaje y Corriente
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Armado%20-%20Medición%20de%20V%20e%20I.jpeg)
+
+* Circuito sin R5 y con medición de voltaje
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20sin%20R5%20-%20V.jpeg)
+
+* Circuito sin R5, sin efecto de las fuentes de voltaje y con medición de la resistencia equivalente
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20sin%20R5%20-%20Req.jpeg)
+
+* Circuito equivalente de Thévenin con R5 y con mediciones de Corriente y Voltaje
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20de%20Thévenin%20-%20Medición%20de%20V%20e%20I.jpeg)
+
+
+
+
 1.Arme el circuito que se muestra en la figura 5.1.![WhatsApp Image 2021-03-23 at 2 18 46 AM](https://user-images.githubusercontent.com/76057459/112191247-d1412580-8bd3-11eb-88c5-7fef2890b3bf.jpeg)
     
 2.Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 1 09 51 AM](https://user-images.githubusercontent.com/76057459/112191437-03eb1e00-8bd4-11eb-85e4-83e587f81a9a.jpeg)
