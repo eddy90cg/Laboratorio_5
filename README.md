@@ -40,23 +40,6 @@ Si el circuito original posee muchas resistencias, y se desea calcular intensida
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
- 
-1.Arme el circuito que se muestra en la figura 5.1.![WhatsApp Image 2021-03-23 at 2 18 46 AM](https://user-images.githubusercontent.com/76057459/112191247-d1412580-8bd3-11eb-88c5-7fef2890b3bf.jpeg)
-    
-2.Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 1 09 51 AM](https://user-images.githubusercontent.com/76057459/112191437-03eb1e00-8bd4-11eb-85e4-83e587f81a9a.jpeg)
-![WhatsApp Image 2021-03-23 at 1 05 22 AM](https://user-images.githubusercontent.com/76057459/112191502-149b9400-8bd4-11eb-8034-a739b2778984.jpeg)
-
-3.Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
-medido en la tabla 5.1.![WhatsApp Image 2021-03-23 at 1 12 54 AM](https://user-images.githubusercontent.com/76057459/112191560-23824680-8bd4-11eb-8810-4ac69781438b.jpeg)
-
-4.Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
-abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
-![WhatsApp Image 2021-03-23 at 2 18 46 AM (3)](https://user-images.githubusercontent.com/76057459/112191727-4ca2d700-8bd4-11eb-842e-664e7b531e35.jpeg)
-
-5.Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
-corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 2 18 46 AM (4)](https://user-images.githubusercontent.com/76057459/112191802-5fb5a700-8bd4-11eb-8185-a412a3a9deef.jpeg)
-![WhatsApp Image 2021-03-23 at 2 18 46 AM (5)](https://user-images.githubusercontent.com/76057459/112191822-65ab8800-8bd4-11eb-939b-caf2b4525f1d.jpeg)
-
 Para poder aplicar este teorema: 
 
 Es necesario tener conocimiento varios métodos estudiados previamente como lo son: resolución de circuitos por medio de mallas y nodos, superposición, resistencia equivalente, divisor de corriente devisor de voltaje, conexiones en serie paralelo, etc.
@@ -76,6 +59,23 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 * Equipos y Materiales necesarios: 
 
 ![elementos circuito](https://user-images.githubusercontent.com/76057459/112097894-d7e98180-8b6e-11eb-82b0-383eff8ab08f.jpeg)
+
+ 
+1.Arme el circuito que se muestra en la figura 5.1.![WhatsApp Image 2021-03-23 at 2 18 46 AM](https://user-images.githubusercontent.com/76057459/112191247-d1412580-8bd3-11eb-88c5-7fef2890b3bf.jpeg)
+    
+2.Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 1 09 51 AM](https://user-images.githubusercontent.com/76057459/112191437-03eb1e00-8bd4-11eb-85e4-83e587f81a9a.jpeg)
+![WhatsApp Image 2021-03-23 at 1 05 22 AM](https://user-images.githubusercontent.com/76057459/112191502-149b9400-8bd4-11eb-8034-a739b2778984.jpeg)
+
+3.Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor
+medido en la tabla 5.1.![WhatsApp Image 2021-03-23 at 1 12 54 AM](https://user-images.githubusercontent.com/76057459/112191560-23824680-8bd4-11eb-8810-4ac69781438b.jpeg)
+
+4.Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito
+abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
+![WhatsApp Image 2021-03-23 at 2 18 46 AM (3)](https://user-images.githubusercontent.com/76057459/112191727-4ca2d700-8bd4-11eb-842e-664e7b531e35.jpeg)
+
+5.Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
+corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 2 18 46 AM (4)](https://user-images.githubusercontent.com/76057459/112191802-5fb5a700-8bd4-11eb-8185-a412a3a9deef.jpeg)
+![WhatsApp Image 2021-03-23 at 2 18 46 AM (5)](https://user-images.githubusercontent.com/76057459/112191822-65ab8800-8bd4-11eb-939b-caf2b4525f1d.jpeg)
 
 * Figura, Circuito Teórico para el análisis de mallas:
 
