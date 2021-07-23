@@ -129,6 +129,46 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 Para poder encontrar los valores y comprobar el Teorema de Thévenin se realizaron los siguientes cálculos:
 
+Resolución por el Teorema de Thévenin
+
+Para Thévenin debemos retirar R5 y las fuentes de voltaje se deben reemplazar pot un cortocircuito
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Paso1.jpeg)
+
+Obtenemos la resistencia equivalente entre R1 y R2, y la llamamos <img src="https://latex.codecogs.com/svg.latex?R_{12}" title="R_{12}" />
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Paso2.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?R_{12}=\frac{(560\Omega)(4700\Omega)}{560\Omega&plus;4700\Omega}=500.30\Omega" title="R_{12}=\frac{(560\Omega)(4700\Omega)}{560\Omega+4700\Omega}=500.30\Omega" />
+
+Encontramos la resistencia equivalente entre <img src="https://latex.codecogs.com/svg.latex?R_{12}" title="R_{12}" /> y R3, y la llamamos <img src="https://latex.codecogs.com/svg.latex?R_{123}" title="R_{123}" />
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Paso3.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?R_{123}=\frac{(500.38\Omega)(330\Omega)}{500.38\Omega&plus;330\Omega}=198.86\Omega" title="R_{123}=\frac{(500.38\Omega)(330\Omega)}{500.38\Omega+330\Omega}=198.86\Omega" />
+
+Encontramos la resistencia equivalente entre <img src="https://latex.codecogs.com/svg.latex?R_{123}" title="R_{123}" /> y R4, que será la Resistencia de Thévenin
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Paso4.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?R_{TH}=198.86\Omega&plus;1000\Omega=298.86\Omega" title="R_{TH}=198.86\Omega+1000\Omega=298.86\Omega" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![img046](https://user-images.githubusercontent.com/76057459/112208608-8bda2380-8be6-11eb-9d4b-45e1bb7425d6.jpg)
 
 ![WhatsApp Image 2021-03-23 at 2 35 16 PM](https://user-images.githubusercontent.com/76057459/112208663-998fa900-8be6-11eb-8812-8d9294e1f445.jpeg)
