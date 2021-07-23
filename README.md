@@ -72,7 +72,7 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 * Figura, Circuito Teórico para el análisis de mallas:
 
-![diagrama circuito](https://user-images.githubusercontent.com/76057459/112098032-12ebb500-8b6f-11eb-9140-0cbc5065ff2e.jpeg)
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Esquemático.jpeg)
 
 1.Arme el circuito que se muestra en la figura 5.1.![WhatsApp Image 2021-03-23 at 2 18 46 AM](https://user-images.githubusercontent.com/76057459/112191247-d1412580-8bd3-11eb-88c5-7fef2890b3bf.jpeg)
     
