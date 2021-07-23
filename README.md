@@ -217,8 +217,7 @@ Resolución por el Teorema de Thévenin
 
 # 5. VIDEO
 
-* aca ira el link del video de youtube
-
+* https://youtu.be/mkRr-ISBy78
 
 # 6.	CONCLUSIONES
 
