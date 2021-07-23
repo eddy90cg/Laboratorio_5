@@ -58,6 +58,18 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 * Equipos y Materiales necesarios: 
 
+| **Cantidad** | **Elemento** |
+| :---: | :---: |
+| 2 | Fuente de Voltaje de C.D.  |
+| 2 | Multímetros Digitales |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?560\Omega" title="560\Omega" /> |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?4.7k\Omega" title="4.7k\Omega" /> |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?330\Omega" title="330\Omega" /> |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?100\Omega" title="100\Omega" /> |
+| 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
+| 1 | Potenciómetro de presición de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
+| 1 | Protoboard |
+
 ![elementos circuito](https://user-images.githubusercontent.com/76057459/112097894-d7e98180-8b6e-11eb-82b0-383eff8ab08f.jpeg)
 
  
