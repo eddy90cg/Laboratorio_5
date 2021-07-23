@@ -109,24 +109,11 @@ Porcentaje de Error Obtenido
 | :---: | :---: | :---: |
 | **Error** | <img src="https://latex.codecogs.com/svg.latex?-0.21%" title="-0.21%" /> | <img src="https://latex.codecogs.com/svg.latex?-0.04%" title="-0.04%" /> |      
 
-
-
-![WhatsApp Image 2021-03-23 at 1 52 40 PM](https://user-images.githubusercontent.com/76057459/112202218-1f0f5b00-8bdf-11eb-9847-1e60e5cc9a32.jpeg)
-
-
-Tabla de Registro de datos tomados :
+Tabla de Registro de datos tomados para la Comprobación del Teorema de Thévenin  :
 
 ![WhatsApp Image 2021-03-23 at 2 49 25 PM](https://user-images.githubusercontent.com/76057459/112209045-099e2f00-8be7-11eb-87d1-d4586bf28c03.jpeg)
 
-
-Porcentaje de Error Obtenido :
-
-------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
-
-
-Para poder encontrar los valores de la corriente para cada malla se aplicaron los siguientes cálculos:
+Para poder encontrar los valores y comprobar el Teorema de Thévenin se realizaron los siguientes cálculos:
 
 ![img046](https://user-images.githubusercontent.com/76057459/112208608-8bda2380-8be6-11eb-9d4b-45e1bb7425d6.jpg)
 
