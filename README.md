@@ -153,7 +153,35 @@ Encontramos la resistencia equivalente entre <img src="https://latex.codecogs.co
 
 <img src="https://latex.codecogs.com/svg.latex?R_{TH}=198.86\Omega&plus;1000\Omega=298.86\Omega" title="R_{TH}=198.86\Omega+1000\Omega=298.86\Omega" />
 
+Luego encontramos el Voltaje de Thévenin realizando un análisis de mallas
 
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Mallas.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Malla&space;1}\\&space;12-560I_1-4700(I_1-I_2)=0\\&space;-5260I_1&plus;4700I_2=-12&space;\quad&space;(1)&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 1}\\ 12-560I_1-4700(I_1-I_2)=0\\ -5260I_1+4700I_2=-12 \quad (1) \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Malla&space;2}\\&space;2-330I_2-4700(I_2-I_1)=0\\&space;4700I_1-5030I_2=-2&space;\quad&space;(2)&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 2}\\ 2-330I_2-4700(I_2-I_1)=0\\ 4700I_1-5030I_2=-2 \quad (2) \end{matrix}" />
+
+Obtenemos el siguiente sistema de ecuaciones
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{cases}&space;-5260I_1&plus;4700I_2=-12\\&space;4700I_1-5030I_2=-2&space;\end{cases}" title="\begin{cases} -5260I_1+4700I_2=-12\\ 4700I_1-5030I_2=-2 \end{cases}" />
+
+Resolvemos y encontramos <img src="https://latex.codecogs.com/svg.latex?I_1" title="I_1" />  e  <img src="https://latex.codecogs.com/svg.latex?I_2" title="I_2" />
+
+<img src="https://latex.codecogs.com/svg.latex?I_1=0.01597A=15.97mA" title="I_1=0.01597A=15.97mA" />
+
+<img src="https://latex.codecogs.com/svg.latex?I_2=0.0153A=15.3mA" title="I_2=0.0153A=15.3mA" />
+
+Ahora encontramos el <img src="https://latex.codecogs.com/svg.latex?I_2=0.0153A=15.3mA" title="I_2=0.0153A=15.3mA" /> que será igual al voltaje en los extremos de R3
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V_{TH}=R_3\cdot&space;I_2\\&space;\\&space;V_{TH}=330\Omega\cdot&space;15.3mA=5.049V&space;\end{matrix}" title="\begin{matrix} V_{TH}=R_3\cdot I_2\\ \\ V_{TH}=330\Omega\cdot 15.3mA=5.049V \end{matrix}" />
+
+Una vez obtenida la resistencia y voltaje, podemos formar el circuito equivalente de Thévenin y encontrar los equivalentes al circuito original
+
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Completo.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;5.049-298.86I-1000I=0\\&space;\\&space;I=\frac{-5.049}{-1298.86}=0.00389A=3.89mA&space;\end{matrix}" title="\begin{matrix} 5.049-298.86I-1000I=0\\ \\ I=\frac{-5.049}{-1298.86}=0.00389A=3.89mA \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V=R_5\cdot&space;I\\&space;V=1000\Omega\cdot&space;3.89mA=3.89V&space;\end{matrix}" title="\begin{matrix} V=R_5\cdot I\\ V=1000\Omega\cdot 3.89mA=3.89V \end{matrix}" />
 
 
 
