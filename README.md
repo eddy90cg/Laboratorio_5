@@ -122,7 +122,7 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 * Porcentaje de Error Obtenido para el **Circuito Equivalente de Thévenin**
 
-| **Circuito Original** | **Error** |
+| **Circuito Equivalente de Thévenin** | **Error** |
 | :--: | :---: |
 | **Voltaje (V)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
 | **Corriente (mA)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
