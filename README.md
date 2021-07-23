@@ -187,7 +187,27 @@ Resolución por el Teorema de Thévenin
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V=R_5\cdot&space;I\\&space;V=1000\Omega\cdot&space;3.89mA=3.89V&space;\end{matrix}" title="\begin{matrix} V=R_5\cdot I\\ V=1000\Omega\cdot 3.89mA=3.89V \end{matrix}" />
 
+* Resolución del Circuito Original por Análisis de Mallas
 
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Original-Mallas.jpeg)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Malla&space;1}\\&space;12-560I_1-4700(I_1-I_2)=0\\&space;-5260I_1&plus;4700I_2=-12\quad&space;(1)&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 1}\\ 12-560I_1-4700(I_1-I_2)=0\\ -5260I_1+4700I_2=-12\quad (1) \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Malla&space;2}\\&space;2-330(I_2-I_3)-4700(I_2-I_1)=0\\&space;4700I_1-5030I_2&plus;330I_3=-2\quad&space;(2)&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 2}\\ 2-330(I_2-I_3)-4700(I_2-I_1)=0\\ 4700I_1-5030I_2+330I_3=-2\quad (2) \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Malla&space;3}\\&space;-100I_3-1000I_3-330(I_3-I_2)=0\\&space;330I_2-1430I_3=0\quad&space;(3)&space;\end{matrix}" title="\begin{matrix} \textrm{Malla 3}\\ -100I_3-1000I_3-330(I_3-I_2)=0\\ 330I_2-1430I_3=0\quad (3) \end{matrix}" />
+
+* Obtenemos el siguiente sistema de ecuaciones
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{cases}&space;-5260I_1&plus;4700I_2=-12\\&space;4700I_1-5030I_2&plus;330I_3=-2\\&space;330I_2-1430I_3=0&space;\end{cases}" title="\begin{cases} -5260I_1+4700I_2=-12\\ 4700I_1-5030I_2+330I_3=-2\\ 330I_2-1430I_3=0 \end{cases}" />
+
+* Resolvemos y encontramos <img src="https://latex.codecogs.com/svg.latex?I_1" title="I_1" /> , <img src="https://latex.codecogs.com/svg.latex?I_2" title="I_2" />  e  <img src="https://latex.codecogs.com/svg.latex?I_3" title="I_3" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;I_1=0.01735A=17.35mA\\&space;I_2=0.0687A=16.87mA\\&space;I_3=0.00389A=3.89mA\\&space;\end{matrix}" title="\begin{matrix} I_1=0.01735A=17.35mA\\ I_2=0.0687A=16.87mA\\ I_3=0.00389A=3.89mA\\ \end{matrix}" />
+
+* <img src="https://latex.codecogs.com/svg.latex?I_3" title="I_3" /> será la Corriente de R5 y finalmente encontramos el Voltaje de la misma resistencia
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V_{R_5}=I_3\cdot&space;R_5\\&space;V_{R_5}=3.89mA(1000\Omega)=3.89V&space;\end{matrix}" title="\begin{matrix} V_{R_5}=I_3\cdot R_5\\ V_{R_5}=3.89mA(1000\Omega)=3.89V \end{matrix}" />
 
 
 
