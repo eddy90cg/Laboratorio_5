@@ -209,29 +209,6 @@ Resolución por el Teorema de Thévenin
 
 <img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V_{R_5}=I_3\cdot&space;R_5\\&space;V_{R_5}=3.89mA(1000\Omega)=3.89V&space;\end{matrix}" title="\begin{matrix} V_{R_5}=I_3\cdot R_5\\ V_{R_5}=3.89mA(1000\Omega)=3.89V \end{matrix}" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-![img046](https://user-images.githubusercontent.com/76057459/112208608-8bda2380-8be6-11eb-9d4b-45e1bb7425d6.jpg)
-
-![WhatsApp Image 2021-03-23 at 2 35 16 PM](https://user-images.githubusercontent.com/76057459/112208663-998fa900-8be6-11eb-8812-8d9294e1f445.jpeg)
-
-![WhatsApp Image 2021-03-23 at 2 38 44 PM](https://user-images.githubusercontent.com/76057459/112208668-9b596c80-8be6-11eb-94b7-071afdcddb67.jpeg)
-
-![WhatsApp Image 2021-03-23 at 2 44 26 PM](https://user-images.githubusercontent.com/76057459/112208675-9d233000-8be6-11eb-936e-ff508412de2e.jpeg)
-
- ![img046](https://user-images.githubusercontent.com/76057459/112203594-b75a0f80-8be0-11eb-9b94-666fb5353f63.jpg)
-
-
 * Formula a aplicar para el calculo del ERROR: 
 
 <img src="https://latex.codecogs.com/gif.latex?\mathrm{Porcentaje\&space;de\&space;Error\&space;en\&space;el\&space;Voltaje:}&space;\\&space;\\&space;%\&space;Error&space;=&space;\frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times&space;100" title="\mathrm{Porcentaje\ de\ Error\ en\ el\ Voltaje:} \\ \\ %\ Error = \frac{V_T(Teorico)-V_T(Practico)}{V_T(Teorico)}\times 100" />
