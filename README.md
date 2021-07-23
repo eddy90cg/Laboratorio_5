@@ -32,11 +32,7 @@ Si el circuito original posee muchas resistencias, y se desea calcular intensida
 
 * Mentefacto:
 
---------------------------------
----------------------------------
-------------------------------------
----------------------------------
-![]( )
+![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Mentefacto-Lab5.jpeg)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
