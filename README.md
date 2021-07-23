@@ -67,7 +67,7 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 | 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?330\Omega" title="330\Omega" /> |
 | 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?100\Omega" title="100\Omega" /> |
 | 1 | Resistor de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
-| 1 | Potenciómetro de presición de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
+| 1 | Potenciómetro de precisión de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
 | 1 | Protoboard |
 
 * Figura, Circuito Teórico para comprobar el Teorema de Thévenin:
