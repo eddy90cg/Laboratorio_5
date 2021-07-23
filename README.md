@@ -111,6 +111,27 @@ Porcentaje de Error Obtenido
 
 Tabla de Registro de datos tomados para la Comprobación del Teorema de Thévenin  :
 
+| **Parámetro Eléctrico** | **Circuito Original** || **Circuito Equivalente de Thévenin**||
+| :---: | :---: | :---: | :---: | :---: |
+|| **Calculado** | **Medido** | **Calculado** | **Medido** |
+| **Voltaje (V)** | 3.89 | 3.89 | 3.89 | 3.90 |
+| **Corriente (mA)** | 3.89 | 3.89 | 3.89 | 3.90 |
+
+Porcentaje de Error Obtenido para el **Circuito Original**
+
+| **Circuito Original** | **Error** |
+| :--: | :---: |
+| **Voltaje (V)** | <img src="https://latex.codecogs.com/svg.latex?0%" title="0%" /> |
+| **Corriente (mA)** | <img src="https://latex.codecogs.com/svg.latex?0%" title="0%" /> |
+
+Porcentaje de Error Obtenido para el **Circuito Equivalente de Thévenin**
+
+| **Circuito Original** | **Error** |
+| :--: | :---: |
+| **Voltaje (V)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
+| **Corriente (mA)** | <img src="https://latex.codecogs.com/svg.latex?-0.26%" title="-0.26%" /> |
+
+
 ![WhatsApp Image 2021-03-23 at 2 49 25 PM](https://user-images.githubusercontent.com/76057459/112209045-099e2f00-8be7-11eb-87d1-d4586bf28c03.jpeg)
 
 Para poder encontrar los valores y comprobar el Teorema de Thévenin se realizaron los siguientes cálculos:
