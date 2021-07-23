@@ -70,7 +70,7 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 | 1 | Potenciómetro de presición de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
 | 1 | Protoboard |
 
-* Figura, Circuito Teórico para el análisis de mallas:
+* Figura, Circuito Teórico para comprobar el Teorema de Thévenin:
 
 ![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20Esquemático.jpeg)
 
