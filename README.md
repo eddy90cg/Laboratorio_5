@@ -28,7 +28,7 @@ Es decir, el teorema de Thevenin proporciona una técnica para sustituir la part
 
 Si el circuito original posee muchas resistencias, y se desea calcular intensidad, tensión o potencia de alguna de estas, o que se ubique entre los puntos A y B de un circuito grande, se puede simplificar el proceso a través del teorema de Thevenin. Se establece que es posible construir un circuito equivalente más pequeño, comprendido por una resistencia y una fuente de tensión dispuestos en serie. Los valores asignados a cada uno de estos se conoce como resistencia de Thevenin y tensión de Thevenin, que serán equivalentes al valor de la resistencia entre A y B, conocida como resistencia de carga.
 
-![Circuito-de-Thevenin](https://user-images.githubusercontent.com/76057459/112097385-e7b49600-8b6d-11eb-835c-bd0b8f91fc59.jpg)
+![Circuito-de-Thevenin](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Circuito%20de%20Thevenin%20-%20Ejemplo.png)
 
 * Mentefacto:
 
