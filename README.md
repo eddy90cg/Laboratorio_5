@@ -70,6 +70,9 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 | 1 | Potenciómetro de presición de <img src="https://latex.codecogs.com/svg.latex?1k\Omega" title="1k\Omega" /> |
 | 1 | Protoboard |
 
+* Figura, Circuito Teórico para el análisis de mallas:
+
+![diagrama circuito](https://user-images.githubusercontent.com/76057459/112098032-12ebb500-8b6f-11eb-9140-0cbc5065ff2e.jpeg)
 
 1.Arme el circuito que se muestra en la figura 5.1.![WhatsApp Image 2021-03-23 at 2 18 46 AM](https://user-images.githubusercontent.com/76057459/112191247-d1412580-8bd3-11eb-88c5-7fef2890b3bf.jpeg)
     
@@ -86,10 +89,6 @@ abierto resultante mida la resistencia equivalente. Anote el valor medido en la 
 5.Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la
 corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.![WhatsApp Image 2021-03-23 at 2 18 46 AM (4)](https://user-images.githubusercontent.com/76057459/112191802-5fb5a700-8bd4-11eb-8185-a412a3a9deef.jpeg)
 ![WhatsApp Image 2021-03-23 at 2 18 46 AM (5)](https://user-images.githubusercontent.com/76057459/112191822-65ab8800-8bd4-11eb-939b-caf2b4525f1d.jpeg)
-
-* Figura, Circuito Teórico para el análisis de mallas:
-
-![diagrama circuito](https://user-images.githubusercontent.com/76057459/112098032-12ebb500-8b6f-11eb-9140-0cbc5065ff2e.jpeg)
 
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
