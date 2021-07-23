@@ -98,6 +98,19 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 Tabla de Registro de datos tomados para el Circuito Equivalente de Thévenin :
 
+| <img src="https://latex.codecogs.com/svg.latex?V_{TH}\&space;(V)" title="V_{TH}\ (V)" /> || <img src="https://latex.codecogs.com/svg.latex?R_{TH}\&space;(\Omega)" title="R_{TH}\ (\Omega)" /> ||
+| :---: | :---: | :---: | :---: |
+| **Calculado** | 5.049 | **Calculado** | 298.86 |
+| **Medido** | 5.06 | **Medido** | 299 |
+
+Porcentaje de Error Obtenido
+
+|      | <img src="https://latex.codecogs.com/svg.latex?V_{TH}\&space;(V)" title="V_{TH}\ (V)" /> | <img src="https://latex.codecogs.com/svg.latex?R_{TH}\&space;(\Omega)" title="R_{TH}\ (\Omega)" /> |
+| :---: | :---: | :---: |
+| Error | <img src="https://latex.codecogs.com/svg.latex?-0.21%" title="-0.21%" /> | <img src="https://latex.codecogs.com/svg.latex?-0.04%" title="-0.04%" /> |      
+
+
+
 ![WhatsApp Image 2021-03-23 at 1 52 40 PM](https://user-images.githubusercontent.com/76057459/112202218-1f0f5b00-8bdf-11eb-9847-1e60e5cc9a32.jpeg)
 
 
