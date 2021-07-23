@@ -1,4 +1,4 @@
-# TEOREMA DE THEVENIN
+# TEOREMA DE THÉVENIN
 
 #### INTEGRANTES: EDISON CADENA - STEVEN FLORES - WILLIAM MOSQUERA
 
@@ -6,22 +6,22 @@
 
 OBJETIVO GENERAL:
 
-* Demostrar experimentalmente el teorema de Thevenin  para resolver un circuito.
+* Demostrar experimentalmente el teorema de Thévenin  para resolver un circuito.
 
 OBJETIVOS ESPECÍFICOS: 
 
-* Aplicar la teoria de Thevenin  para conseguir un circuito mas sencillo de resolver.
+* Aplicar la teoria de Thévenin  para conseguir un circuito mas sencillo de resolver.
 
 * Comparar los calculos con los resultados practicos y determinar  cual es el error entre los datos ontenidos en la practica y los valores calculados
 
 
 # 2.	MARCO TEÓRICO
 
-# TEOREMA DE THEVENIN
+# TEOREMA DE THÉVENIN
 
 * Resumen: 
 
-El teorema de Thevenin establece que un circuito lineal de dos terminales puede sustituirse por un circuito equivalente
+El teorema de Thévenin establece que un circuito lineal de dos terminales puede sustituirse por un circuito equivalente
 Es decir, el teorema de Thevenin proporciona una técnica para sustituir la parte fija por un circuito equivalente sencillo.
 
 * Introducción:
@@ -44,9 +44,9 @@ Es necesario tener conocimiento varios métodos estudiados previamente como lo s
 
 * Al eliminar las fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Luego se deberá calcular el valor de la resistencia total que existe entre los punto A y B donde se encuentre conectada la resistencia de carga.
 
-* Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde esta se encontraba.
+* Para el caso de hallar la tensión de Thévenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde esta se encontraba.
 
-* Construye el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie. 
+* Construye el circuito equivalente utilizando la tensión de Thévenin y la resistencia de Thévenin en serie. 
 
 * Conecta la resistencia de carga entre los puntos de conexión abiertos de este circuito.
 
@@ -222,12 +222,12 @@ Resolución por el Teorema de Thévenin
 
 # 6.	CONCLUSIONES
 
-* El teorem de Thevenin nos permite obtener un circuito equivalente , se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga lo cual facilita la resolucion del circuito
+* El teorem de Thévenin nos permite obtener un circuito equivalente , se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga lo cual facilita la resolucion del circuito
 
 * Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente
 
 * Se comprueba que podemos obtener voltaje y corriente aplicando los métodos en análisis de circuitos eléctricos que cuentan
-con varias conexiones sin importar cuales las conexiones solo teniendo una resitencia independiente  con el Teorema de Thevenin.
+con varias conexiones sin importar cuales las conexiones solo teniendo una resitencia independiente  con el Teorema de Thévenin.
 
 * Obervamos que las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
 las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
