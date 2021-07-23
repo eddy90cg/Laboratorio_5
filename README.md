@@ -131,7 +131,7 @@ Para poder encontrar los valores y comprobar el Teorema de Thévenin se realizar
 
 Resolución por el Teorema de Thévenin
 
-* Para Thévenin debemos retirar R5 y las fuentes de voltaje se deben reemplazar pot un cortocircuito
+* Para Thévenin debemos retirar R5 y las fuentes de voltaje se deben reemplazar por un cortocircuito
 
 ![](https://github.com/eddy90cg/Laboratorio_5/blob/main/Laboratorio%205/Thévenin-Paso1.jpeg)
 
